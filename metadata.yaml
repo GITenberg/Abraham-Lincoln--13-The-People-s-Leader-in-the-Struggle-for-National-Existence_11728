@@ -1,0 +1,48 @@
+_repo: Abraham-Lincoln--13-The-People-s-Leader-in-the-Struggle-for-National-Existence_11728
+_version: 0.0.1
+contributor:
+  annotators:
+  - agent_name: Brainerd, Cephas
+    birthdate: 1831
+    deathdate: 1910
+    gutenberg_agent_id: '40243'
+    url: http://www.gutenberg.org/2009/agents/40243
+  - agent_name: Nott, Charles C.
+    alias: Nott, Charles Cooper
+    birthdate: 1827
+    deathdate: 1916
+    gutenberg_agent_id: '40242'
+    url: http://www.gutenberg.org/2009/agents/40242
+  contributor:
+    agent_name: Lincoln, Abraham
+    aliases:
+    - United States President (1861-1865)
+    - Lincoln, Abe
+    birthdate: 1809
+    deathdate: 1865
+    gutenberg_agent_id: '3'
+    url: http://www.gutenberg.org/2009/agents/3
+    wikipedia: http://en.wikipedia.org/wiki/Abraham_Lincoln
+creator:
+  author:
+    agent_name: Putnam, George Haven
+    birthdate: 1844
+    deathdate: 1930
+    gutenberg_agent_id: '4082'
+    url: http://www.gutenberg.org/2009/agents/4082
+description: ''
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11728'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'United States -- History -- Civil War, 1861-1865'
+- !lcsh 'Lincoln, Abraham, 1809-1865'
+- GITenberg
+title: "Abraham Lincoln\r\nThe People's Leader in the Struggle for National Existence"
+url: http://www.gutenberg.org/ebooks/11728
