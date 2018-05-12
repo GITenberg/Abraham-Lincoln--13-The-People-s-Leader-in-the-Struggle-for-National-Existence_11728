@@ -1,5 +1,5 @@
 _repo: Abraham-Lincoln--13-The-People-s-Leader-in-the-Struggle-for-National-Existence_11728
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   annotators:
   - agent_name: Brainerd, Cephas
@@ -23,6 +23,9 @@ contributor:
     gutenberg_agent_id: '3'
     url: http://www.gutenberg.org/2009/agents/3
     wikipedia: http://en.wikipedia.org/wiki/Abraham_Lincoln
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Putnam, George Haven
@@ -31,6 +34,8 @@ creator:
     gutenberg_agent_id: '4082'
     url: http://www.gutenberg.org/2009/agents/4082
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11728#Abraham-Lincoln--13-The-People-s-Leader-in-the-Struggle-for-National-Existence
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
 identifiers:
